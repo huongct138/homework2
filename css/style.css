@@ -1,6 +1,8 @@
 body {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 115%;
+  padding: 10px;
+  margin: 10px;
 }
 
 header {
